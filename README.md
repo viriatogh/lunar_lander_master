@@ -21,3 +21,5 @@ Funciones:
 * motorOn() - enciende el motor de la nave.
 * motorOff() - apaga el motor de la nave.
 * actualizarFuel() - actualiza la barra de gasolina de la nave y proporciona informacion sobre la gasolina actual de la nave.
+
+Se crea otro branch para el código minificado
